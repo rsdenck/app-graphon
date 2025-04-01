@@ -1,7 +1,7 @@
 # 📡 Graphon Releases Repository
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rsdenck/icones/refs/heads/main/graphon-icone.png" alt="Graphon Logo" width="250">
+  <img src="https://raw.githubusercontent.com/rsdenck/icones/refs/heads/main/graphon-logo.png" alt="Graphon Logo" width="250">
 </p>
 
 ## 📌 Sobre este Repositório
